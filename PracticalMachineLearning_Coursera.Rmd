@@ -1,6 +1,6 @@
 ---
 title: "Predict activity quality from activity monitors"
-author: "Shirley Asanvi"
+author: "Shirley Asangi"
 date: "Oct 16 2023"
 output:
   html_document:
